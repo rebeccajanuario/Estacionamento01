@@ -1,0 +1,158 @@
+/* Body and Global Styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+.header {
+  background-color: #2d3e50;
+  color: white;
+  padding: 10px 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.main-banner {
+  background: linear-gradient(135deg, #5a6d7c, #324249);
+  padding: 40px 20px;
+  text-align: center;
+  color: white;
+}
+
+.main-banner h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+/* Buttons */
+.buttons-section button {
+  background-color: #58b7ff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 20px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.buttons-section button:hover {
+  background-color: #4394e3;
+}
+
+.notifications h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Footer */
+.footer {
+  background-color: #323a45;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer a {
+  color: #58b7ff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+/* Contact */
+.navbar-expand-lg {
+  background-color: #4caf50;
+}
+
+.contact-container {
+  max-width: 900px;
+  margin: 50px auto;
+  padding: 25px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.contact-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.contact-header h1 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.social-links a {
+  margin: 0 15px;
+  font-size: 28px;
+  color: #555;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #4caf50;
+}
+
+/* Login */
+.contact-container {
+  max-width: 800px;
+  margin: 70px auto;
+  background-color: #ffffff;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  border-radius: 15px;
+}
+
+.contact-header h1 {
+  font-size: 2.5rem;
+  color: #444;
+  margin-bottom: 20px;
+}
+
+button {
+  width: 100%;
+  padding: 14px;
+  font-size: 1.1rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+button[type="submit"] {
+  background-color: #e4a08c;
+  color: white;
+}
+
+button[type="submit"]:hover {
+  background-color: #8aa1ee;
+}
+
+/* Form Input Styles */
+input[type="text"], input[type="datetime-local"] {
+  width: 100%;
+  padding: 12px;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus, input[type="datetime-local"]:focus {
+  border-color: #c78148;
+  outline: none;
+}

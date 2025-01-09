@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<parking>
+  <ticket>
+    <plate>XYZ-5678</plate>
+    <fullName>João Silva</fullName>
+    <cpf>123.456.789-00</cpf>
+    <phone>999999999</phone>
+    <entryTime>08/01/2025 09:00</entryTime>
+    <exitTime>08/01/2025 10:00</exitTime>
+    <value>18.00</value>
+  </ticket>
+</parking>

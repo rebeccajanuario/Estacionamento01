@@ -3,7 +3,7 @@
 Sistema de Gerenciamento de Estacionamento
 
 
-https://estacionamentoaaaa.web.app
+ https://estac02.web.app
 
 O projeto consiste no desenvolvimento de um Sistema de Gerenciamento de Estacionamento utilizando tecnologias web como HTML, CSS e JavaScript. O sistema foi projetado para ser responsivo, intuitivo e eficiente, permitindo o gerenciamento de tickets de entrada e saída de veículos, além da administração de tarifas e geração de relatórios.
 Funcionalidades Principais
